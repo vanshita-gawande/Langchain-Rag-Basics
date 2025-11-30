@@ -1,0 +1,34 @@
+# Core LangChain
+langchain
+langchain-community
+langchain-core
+langgraph
+
+# LLM Providers
+openai
+groq
+huggingface-hub
+transformers
+tiktoken
+
+# Vector Databases
+faiss-cpu   # for local vector search
+chromadb    # alternative local vector DB
+
+# Embeddings
+sentence-transformers
+
+# Environment Variables
+python-dotenv
+
+# Server / API
+fastapi
+uvicorn
+
+# Utils
+requests
+pydantic
+
+#ml
+numpy
+scikit-learn

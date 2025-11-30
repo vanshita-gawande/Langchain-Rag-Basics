@@ -1,0 +1,45 @@
+# =========================
+# ✅ ENV & SECRETS (VERY IMPORTANT)
+# =========================
+.env
+
+# =========================
+# ✅ PYTHON VIRTUAL ENV
+# =========================
+venv/
+env/
+.venv/
+
+# =========================
+# ✅ PYTHON CACHE FILES
+# =========================
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# =========================
+# ✅ JUPYTER NOTEBOOK FILES
+# =========================
+.ipynb_checkpoints/
+
+# =========================
+# ✅ LOG FILES
+# =========================
+*.log
+
+# =========================
+# ✅ IDE / EDITOR FILES
+# =========================
+.vscode/
+.idea/
+
+data/
+downloads/
+outputs/
+
+# =========================
+# ✅ MODEL / EMBEDDING CACHE
+# =========================
+.cache/
+models/

@@ -1,0 +1,1 @@
+# made prompt template here and saved it then can use it at multiple places
