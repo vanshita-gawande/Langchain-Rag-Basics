@@ -1,0 +1,5 @@
+Artificial Intelligence is the simulation of human intelligence.
+Machine Learning is a subset of Artificial Intelligence.
+Deep Learning is a subset of Machine Learning that uses neural networks.
+Virat Kohli is one of the best cricketers in the world.
+India is one of the fastest growing AI markets.

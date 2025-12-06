@@ -1,0 +1,7 @@
+Artificial Intelligence is changing the world.
+
+Machine Learning is a part of Artificial Intelligence.
+
+Deep Learning is a subfield of Machine Learning.
+
+Virat Kohli is one of the best cricketers in the world.
