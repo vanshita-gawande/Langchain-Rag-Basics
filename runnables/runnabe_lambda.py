@@ -48,7 +48,6 @@ parallel_chain = RunnableParallel({
     "facts":facts_chain
 })
 
-#
 result = parallel_chain.invoke({'topic':'AI'})
 #run the chain
 # ✅ Print results
