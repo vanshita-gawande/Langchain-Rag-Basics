@@ -91,7 +91,6 @@ to_dict = RunnableLambda(lambda x: {
 })
 
 #  CONDITIONAL ROUTER
-
 router = RunnableBranch(
     (lambda x: x["sentiment"] == "positive", positive_chain),
     (lambda x: x["sentiment"] == "negative", negative_chain),
