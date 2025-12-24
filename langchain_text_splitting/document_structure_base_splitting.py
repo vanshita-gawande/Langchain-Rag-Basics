@@ -1,6 +1,5 @@
 # 3 -
 # (PDF, Word, Webpage, CSV etc.)
-# ✅ Concept
 # Splitting based on real document layout:Pages,Headings,Sections,Tables
 
 # Used with:
