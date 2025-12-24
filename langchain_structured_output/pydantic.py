@@ -49,7 +49,6 @@ except ValidationError as e:
     print(e)
 #for wrong will give error
 
-
 #for open ai 
 from dotenv import load_dotenv
 from pydantic import BaseModel, Field
