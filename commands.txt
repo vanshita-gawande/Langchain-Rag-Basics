@@ -1,3 +1,4 @@
 python -m venv venv  -- to create a new env
 ./venv/Scripts\Activate -- to activate venv
 pip install -r requirements.txt -- for installation
+run files directly using filename.py
