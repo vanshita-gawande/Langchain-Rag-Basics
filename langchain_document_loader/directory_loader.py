@@ -27,4 +27,4 @@ documents = txt_docs + pdf_docs
 #print(documents)
 print(documents[30].page_content)
 
-#AS IT TAKES TOO MUCH TIME SO WE USE LAZY LOAD TECHNIQUE FOR IT
+#AS IT TAKES TOO MUCH TIME SO WE USE LAZY LOAD TECHNIQUE FOR FAST REPLY
