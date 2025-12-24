@@ -12,7 +12,6 @@ print(result)
 #it takes string and retturn string and hence came to know it is llm
 #llms are too old and not used currently try to use chat models
 
-
 #close models all three deployed on their srver and not have control to make changes and controlled to deployer this was solved by open source we can download it and make chnages in our machine,can also fine tune , deployed and free
 #also data will not store or apss to other server as in our machine - can deploy it on our server open source 
 #llama - facebook , mistral,bloom
