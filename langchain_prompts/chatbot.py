@@ -30,7 +30,6 @@
 #     print("AI:", result.content)
 # print(chat_history)
 
-
 #using token 
 # from dotenv import load_dotenv
 # from langchain_huggingface import HuggingFaceEndpoint, ChatHuggingFace
