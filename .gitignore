@@ -39,7 +39,6 @@ data/
 downloads/
 outputs/
 
-# =========================
 # ✅ MODEL / EMBEDDING CACHE
 # =========================
 .cache/
