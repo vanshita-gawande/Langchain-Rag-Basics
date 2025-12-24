@@ -7,5 +7,4 @@ text = "delhi is capital of india"
 vector = embedding.embed_query(text)
 
 print(str(vector))
-
 #here also can generate embedding fo rmultiple queries
