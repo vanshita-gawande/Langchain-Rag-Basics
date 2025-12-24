@@ -63,7 +63,6 @@ def delete_document(doc_id: str):
     print("document deleteed")
     print("id",doc_id)
 
-
 if __name__ == '__main__':
     doc_id = create_document("Virat Kohli is one of the greatest cricketers in the world.")
 
