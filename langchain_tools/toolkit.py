@@ -1,4 +1,4 @@
-#first craete two custim functions that are relsted using toll operator
+#first create two custom functions that are relsted using toll operator
 from langchain_core.tools import tool
 
 #function 1
