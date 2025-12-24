@@ -1,5 +1,5 @@
 #Short answer: StructuredOutputParser is no longer supported in the newer LangChain (1.x) versions, including the one you’re using (1.1.0). It has been removed and replaced by PydanticOutputParser PydanticOutputParser is now the official and recommended way to generate structured, validated JSON output from LLMs..
-#
+
 #Instead of messy paragraphs, you will get clean structured JSON like this:{
 #   'title': 'India Overview',
 #   'summary': 'India is a fast-growing nation with a large population...',
